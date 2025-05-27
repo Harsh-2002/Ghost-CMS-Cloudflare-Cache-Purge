@@ -1,4 +1,4 @@
-# Ghost CMS + CloudFlare Cache Automation
+# Ghost CMS + Cloudflare Cache Automation
 
 Automatically purge CloudFlare cache when content changes in Ghost CMS using webhooks and CloudFlare Workers.
 
