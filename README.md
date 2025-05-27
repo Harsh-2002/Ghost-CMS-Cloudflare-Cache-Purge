@@ -179,15 +179,6 @@ Create separate workers for staging/production:
 - **Monitor Activity:** Check worker logs regularly for unexpected activity
 - **Rate Limiting:** CloudFlare Workers have built-in rate limiting
 
-## File Structure
-
-```
-cloudflare-ghost-cache/
-├── index.js          # CloudFlare Worker code
-├── README.md          # This file
-└── .gitignore         # Git ignore file
-```
-
 ## Support
 
 If you encounter issues:
